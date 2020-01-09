@@ -48,4 +48,4 @@ echo html(
 
 Resource on caching I found from a quick google search: [eyyyy](https://catswhocode.com/phpcache/)
 
-
+since these are built with functions, might need to do something different.
