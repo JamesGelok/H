@@ -23,7 +23,6 @@ echo H::html(
 ```php
 <?php
 
-use Html as H;
 use Html\html;
 use Html\head;
 use Html\title;
