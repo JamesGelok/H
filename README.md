@@ -18,3 +18,28 @@ echo H::html(
 );
 ```
 
+## Other variants might include something like this:
+
+```php
+<?php
+
+use Html as H;
+use Html\html;
+use Html\head;
+use Html\title;
+use Html\body;
+use Html\h1;
+use Html\img;
+use Html\p;
+
+echo html(
+  head(
+    title('Nice')
+  ),
+  body(
+    h1('What up', ['style' => 'color: red;']),
+    img(['src' => $imgSrc, 'height' => 40, 'width' => 40]),
+    p('Hello, World!')
+  )
+);
+```
