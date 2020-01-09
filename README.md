@@ -18,7 +18,7 @@ echo H::html(
 );
 ```
 
-## Other variants might include something like this:
+## 💡 Other variants might include something like this:
 
 ```php
 <?php
@@ -43,3 +43,9 @@ echo html(
   )
 );
 ```
+
+## 💡 Caching
+
+Resource on caching I found from a quick google search: [eyyyy](https://catswhocode.com/phpcache/)
+
+
