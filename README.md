@@ -46,4 +46,5 @@ echo html(
 ## 💡 Caching
 
 Resource on caching I found from a quick google search: [eyyyy](https://catswhocode.com/phpcache/)
+
 WesBos small simple: [WesBos](https://wesbos.com/simple-php-page-caching-technique/)
