@@ -43,3 +43,21 @@ echo H::html(
 // extensibility? extend Html to do make view frameworks
 // speed? it runs every time? caching?
 // echo MDB::button('What up', ['primary'])
+
+// Developer experience
+// as in:
+// 
+// use Html::img
+// . doesnt work yet,https://wiki.php.net/rfc/use-static-function
+// . but there's this:
+// . https://wiki.php.net/rfc/function_autoloading
+// 
+// . what about autonamespacing
+// as in:
+// 
+// use Html/img;
+// . check this out 
+// . https://www.php.net/manual/en/language.namespaces.nsconstants.php
+// . maybe that will work?
+
+
