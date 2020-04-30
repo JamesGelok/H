@@ -1,5 +1,6 @@
 # H™Licious 😋
-View Framework for PHP
+Experimental View Framework for PHP. 
+I mostly made this for fun. Not suitable for production environments.
 
 ```php
 <?php
